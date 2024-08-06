@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: antiquewhite;
+
+}
+h1{
+   margin: auto;
+   font-size: 40px;
+   display: inline;
+ 
+ 
+}
+.main{
+    background-color: black;
+    width: 600px;
+}
+.header{
+    color: gray;
+    
+}
+h2{
+    font-size: 40px;
+}
+span{
+    background-color: red;
+}
